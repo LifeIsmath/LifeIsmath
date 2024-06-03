@@ -38,7 +38,7 @@
   <a href="https://t.me/Lifeismathematic" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:po5043279@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![snake animation](https://github.com/lifeismath/lifeismath/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lifeismath/lifeismath/blob/output/github-contribution-grid-snake.gif)
 
 </div>  
 
