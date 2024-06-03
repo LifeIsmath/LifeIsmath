@@ -40,6 +40,5 @@
 
 ![Snake animation](https://github.com/lifeismath/lifeismath/blob/output/github-contribution-grid-snake.svg)
 
-[[![readme](https://github-readme-stats.vercel.app/api/pin/? username=lifeismath&repo=lifeismath&theme=react}](https://github.com/lifeismath/lifeismath)  
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?usernameheme=react)](https://github.com/lifeismath/lifeismath)
 </div>  
