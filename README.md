@@ -1,7 +1,7 @@
 ## My pseudonym is Second Player.
 
-- 🌱 Studying: Data Analysis, Data Mining, Statistics and Pentest
-- 💬 Ask me about: Programming, Physics, Statistics and Mathematics. 
+- 🌱 Studying: Mathematics, Data Mining and Statistics.
+- 💬 Ask me about: Programming, Statistics and Mathematics. 
 - 📝 Blog: [LifeIsmath](https://lifeIsmath.pythonanywhere.com/)
 - 📫 How to reach me: E-mail or Telegram.
 - ⚡ Fun fact: I am instrumentalist, anti-realist, ± fictionalist and non-physicalist.
